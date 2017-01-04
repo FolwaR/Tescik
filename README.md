@@ -1,0 +1,2 @@
+# Tescik
+Warsztaty Git
